@@ -96,6 +96,7 @@ components:
               minimum: 0
               x-walrus-ui:
                 order: 4
+                hidden: true
             replicas:
               description: |
                 Specify the desired replicas of the deployment.
